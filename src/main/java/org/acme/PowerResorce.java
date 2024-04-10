@@ -15,6 +15,5 @@ public class PowerResorce {
     public List<DevicePower> getDevices() {
         return DevicePower.listAll();
     }
-    
 
 }
